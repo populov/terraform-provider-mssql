@@ -1,3 +1,5 @@
+# :point_right: Moved to [saritasa-nest/terraform-provider-mssql](https://github.com/saritasa-nest/terraform-provider-mssql)
+
 # Microsoft SQL Server Terraform Provider
 
 ## Usage
